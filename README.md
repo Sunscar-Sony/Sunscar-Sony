@@ -5,7 +5,7 @@
     <div align="center">
         <a href="https://github.com/Sunscar-Sony">
             <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Sanskar+Soni;Student;Web+Developer;Software+Engineer;Web+Designer;"
+                src="https://readme-typing-svg.herokuapp.com?color=%fafafa&size=42&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=HI+,+I'M+SANSKAR+SONI;STUDENT;WED+DEVELOPER;SOFTWARE+ENGINEER;WEB+DESIGNER;"
             />
         </a>
     </div>
