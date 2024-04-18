@@ -85,14 +85,12 @@ Let's connect and create something amazing together!
 <div align="center">
     <h3><b>Cloud</b></h3>
     <code><a href="https://netlify.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/netlify-icon.svg" title="Netlify" alt="netlify" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://vercel.com/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/vercel-icon-dark.svg" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://heroku.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/heroku-original.svg" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
     <h3><b>Tools</b></h3>
     <code><a href="https://visualstudio.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://github.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/github-original.svg" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://blender.org/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/blender-original.svg" title="Blender" alt="blender" width="40" height="40"/></a></code>&nbsp;
@@ -114,7 +112,6 @@ Let's connect and create something amazing together!
 <div>
     <br>
 </div>
-<br><br>
 
 <div>
     <div align="center">
