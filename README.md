@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-        <a href="https://github.com/Sunscar-Sony"><img src="#" height="200" /></a>
+        <a href="https://github.com/Sunscar-Sony"><img src="Sunscar.png" height="320" /></a>
     </div>
     <div align="center">
         <a href="https://github.com/Sunscar-Sony">
@@ -35,9 +35,13 @@ Aspiring software engineer with a flair for web design and front-end development
 ```py
 About Me = [
   
-I'm a software engineering student passionate about front-end development and UI/UX design. Skilled in HTML, CSS, JavaScript, React.js, and Next.js, I love crafting engaging user experiences and incorporating creative elements like clever Easter eggs.
+I'm a software engineering student passionate about front-end development and UI/UX design.
+ Skilled in HTML, CSS, JavaScript, React.js, and Next.js,
+I love crafting engaging user experiences and incorporating creative elements like clever Easter eggs.
 
-Outside of coding, I enjoy experimenting with new recipes and jamming to my favorite playlist. Let's connect and create something amazing together! 
+Outside of coding,
+I enjoy experimenting with new recipes and jamming to my favorite playlist.
+Let's connect and create something amazing together! 
 ]
 ```
 
