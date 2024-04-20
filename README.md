@@ -27,7 +27,7 @@ Aspiring software engineer with a flair for web design and front-end development
         <ul>
             <li>🔭 <b>I’m currently working on</b>: Bus Tracking and Management System</li>
             <li>🌱 <b>I’m currently learning</b>: Android, Python, Java, Desgining, React JS.</li>
-            <li>💬 <b>Ask me about</b>: Web Development</li>
+            <li>💬 <b>Ask me about</b>: Web Development, Web Designing</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
         </ul>
