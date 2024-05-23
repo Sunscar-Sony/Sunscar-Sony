@@ -54,60 +54,74 @@ I enjoy experimenting with new recipes and jamming to my favorite playlist.
 Let's connect and create something amazing together! 
 ]
 ```
-
 <div align="center">
-    <h1>Skill Set 💪</h1>
-    <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
+    <h3><b>Frontend Development</b></h3>
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
+  
 </div>
+<br>
 
+<!-- Skill Set (App Development)  -->
 <div align="center">
-    <h3><b>Programming Languages</b></h3>
-    <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/html5-original.svg" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/css3-original.svg" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.python.org" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/python-original.svg" title="Python" alt="python" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.w3schools.com/CPP/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.w3schools.com/C/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/c-original.svg" title="C" alt="c" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.java.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/java-original.svg" title="Java" alt="java" width="40" height="40"/></a></code>&nbsp;
-</div>
-
+    <h3><b>App Development </b></h3>
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></code>&nbsp;
+    <br>
+  
+<!-- Skill Set (L&F)  -->
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/react-original.svg" title="ReactJS" alt="reactjs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/nodejs-original.svg" title="NodeJS" alt="nodejs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/nextjs-original.svg" title="NextJS" alt="nextjs" width="40" height="40"/></a></code>&nbsp;
-&nbsp;
-    <code><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/bootstrap-original.svg" title="BootStrap" alt="bootstrap" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://jquery.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jquery-original.svg" title="jQuery" alt="jquery" width="40" height="40"/></a></code>&nbsp;
->&nbsp;
-    <code><a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/selenium-original.svg" title="Selenium" alt="selenium" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://opencv.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/opencv-original.svg" title="OpenCV" alt="opencv" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
+      <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
+      <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" title="NextJS" alt="nextjs" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
 </div>
+<br>
 
+<!-- Skill Set (Database)  -->
 <div align="center">
     <h3><b>Databases</b></h3>
-    <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/mysql-original.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://firebase.com/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/firebase-icon.svg" title="Firebase" alt="firebase" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://mongodb.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/mongodb-original.svg" title="MongoDB" alt="mongodb" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://www.dbi-services.com/wp-content/uploads/2022/01/Logo-Mongodb-carre.png" title="MongoDB" alt="mongodb"  height="40"/></a></code>&nbsp;
+      <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL"  height="40"/></a></code>&nbsp;
+   <code><a #="#" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" title="Firebase" alt="firebase" height="40"/></a></code>&nbsp
 </div>
+<br>
 
+<!-- Skill Set (Cloud)  -->
 <div align="center">
     <h3><b>Cloud</b></h3>
-    <code><a href="https://netlify.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/netlify-icon.svg" title="Netlify" alt="netlify" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://heroku.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/heroku-original.svg" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
-</div>
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></code>&nbsp;
+      <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
+  <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/logo-vercel-icon-512x444-szlkql7g.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
+<br>
 
+<!-- Skill Set (Tools)  -->
 <div align="center">
     <h3><b>Tools</b></h3>
-    <code><a href="https://visualstudio.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://blender.org/" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/blender-original.svg" title="Blender" alt="blender" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://cdn.mrayush.me/img/Github-Readme/photoshop-original.svg" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" title="Adobe illustrator" alt="illustrator" width="40" height="40"/></a></code>&nbsp;
+</div>
+<br>
+
+<div align="center">
+    <h3><b>Operating Systems</b></h3>
+    <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
     <br><br>
 </div>
-
+    <br><br>
+</div>
+</div>
+<hr>
 <div>
     <div align="center">
         <h1>📊 Github Stats</h1>
