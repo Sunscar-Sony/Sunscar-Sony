@@ -115,7 +115,7 @@ Let's connect and create something amazing together!
     <h3><b>Operating Systems</b></h3>
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.iconsdb.com/icons/preview/white/apple-xxl.png" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
     <br><br>
 </div>
     <br><br>
