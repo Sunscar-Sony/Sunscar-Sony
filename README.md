@@ -128,14 +128,14 @@ Let's connect and create something amazing together!
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/myselfshivams">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  <a href="https://github.com/Sunscar-Sony">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscar-Sony&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/myselfshivams">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
+  <a href="https://github.com/Sunscar-Sony">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscar-Sony&theme=radical" alt="Shivam's GitHub Contribution"/>
   </a>
 </p>
 
