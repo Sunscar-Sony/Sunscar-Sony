@@ -123,12 +123,23 @@ Let's connect and create something amazing together!
 </div>
 <hr>
 <div>
-    <div align="center">
-        <h1>📊 Github Stats</h1>
-        <br>
-        <a href="https://github.com/Sunscar-Sony"><img src="https://ghstreak.mrayush.in/?user=Sunscar-Sony&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
-        <br><br>
-    </div>
+   <div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/myselfshivams">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/myselfshivams">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
+  </a>
+</p>
+
+<hr>
 </div>
 
 <br><br>
