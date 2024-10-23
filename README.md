@@ -3,9 +3,6 @@
 </a>
 <div align="center">
           <a href="https://github.com/Sunscar-Sony">
-            <img
-                src="https://readme-typing-svg.herokuapp.com?color=burgandy&size=42&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=HI+I'M+SANSKAR+SONI;STUDENT;WED+DEVELOPER;SOFTWARE+ENGINEER;WEB+DESIGNER;"
-            />
         </a>
 </div>
 <div>
@@ -15,7 +12,7 @@
     <div align="center">
       <a href="https://github.com/Sunscar-Sony">
             <img
-                src="https://readme-typing-svg.herokuapp.com?color=violet&size=28&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
+                src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
             />
         </a>
     </div>
