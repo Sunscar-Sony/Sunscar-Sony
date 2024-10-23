@@ -10,7 +10,7 @@
 </div>
 <div>
     <div align="center">
-        <a href="https://github.com/Sunscar-Sony"><img src="github-bg.png" height="500" /></a>
+        <a href="https://github.com/Sunscar-Sony"><img src="github-bg.png" height="400" /></a>
     </div>
     <div align="center">
       <a href="https://github.com/Sunscar-Sony">
